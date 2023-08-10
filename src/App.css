@@ -40,3 +40,20 @@
 .read-the-docs {
   color: #888;
 }
+
+.cardClass {
+  display: flex;
+  flex-direction: column;
+  padding: 1.5em;
+  border-radius: 10%;
+  background-color: #A2AD59;
+  border-color: black;
+  margin: 2em;
+
+}
+
+input {
+  height: 2.0em;
+  border-radius: 0.5em;
+  font-size: large;
+}
